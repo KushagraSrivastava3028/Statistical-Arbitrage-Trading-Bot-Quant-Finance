@@ -74,13 +74,13 @@ pip install pandas numpy matplotlib yfinance statsmodels
 
 ### 3️⃣ Run the Script
 ```bash
-python stat_arb.py
+python pairs_trading_bot.py
 ```
 
 ## Output
 
---- Spread plot
+- Spread plot
 
---- Z-score plot with buy/sell signals
+- Z-score plot with buy/sell signals
 
---- Automatically saved backtest visualization
+- Automatically saved backtest visualization
