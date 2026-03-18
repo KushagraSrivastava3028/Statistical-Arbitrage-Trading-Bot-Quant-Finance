@@ -77,6 +77,8 @@ pip install pandas numpy matplotlib yfinance statsmodels
 python pairs_trading_bot.py
 ```
 
+---
+
 ## Output
 
 - Spread plot
